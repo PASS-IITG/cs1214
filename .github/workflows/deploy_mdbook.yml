@@ -25,7 +25,6 @@ jobs:
       - name: Install mdBook and preprocessors
         run: |
           cargo install mdbook --version 0.4.44
-          cargo install mdbook-resource
           cargo install mdbook-admonish || true
           cargo install mdbook-katex || true
 
