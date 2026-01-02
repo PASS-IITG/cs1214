@@ -1,0 +1,7 @@
+[book]
+authors = ["Bernard Nongpoh"]
+language = "en"
+src = "src"
+title = "CS 1214: Object Oriented Programming and Data Structures Lab"
+[output.html]
+    no-section-label = true
