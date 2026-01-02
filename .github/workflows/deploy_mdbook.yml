@@ -2,7 +2,9 @@ name: Build and Deploy mdBook
 
 on:
   push:
-    branches: ["main"]  # deploy on main branch pushes
+    branches:
+      - main
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -14,29 +16,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Install mdBook
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Install mdBook and preprocessors
         run: |
-          # get latest precompiled mdbook binary
-          MDBOOK_VERSION="0.4.44"
-          curl -L https://github.com/rust-lang/mdBook/releases/download/v${MDBOOK_VERSION}/mdbook-v${MDBOOK_VERSION}-x86_64-unknown-linux-gnu.tar.gz \
-          | tar xz
+          cargo install mdbook --version 0.4.44
+          cargo install mdbook-resource
+          cargo install mdbook-admonish || true
+          cargo install mdbook-katex || true
 
       - name: Build mdBook
-        run: ./mdbook build
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload book artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./book
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+        run: mdbook build
