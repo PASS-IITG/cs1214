@@ -1,238 +1,190 @@
-# Schedule
+<h3>Course Schedule & Timings</h3>
+
+<ul>
+<li><b>Monday:</b> 2:00–5:00 PM (Computer & Communication Centre) — Lab</li>
+  <li><b>Tuesday:</b> 10:00–10:55 AM (Room 5401) — Lecture</li>
+  <li><b>Wednesday:</b> 11:00–11:55 AM (Room 5401) — Lecture</li>
+  <li><b>Friday:8:00-8:55 AM (Room 5401)</b> Compensation class only (if Tue/Wed is a holiday) & Quiz</li>
+</ul>
+
 <!-- ===================== JANUARY 2026 ===================== -->
 <table style="width:100%; border-collapse: collapse; text-align:center;">
-  <tr>
-    <th style="border:1px solid #000; width:10%;">Month</th>
-    <th style="border:1px solid #000;">Monday</th>
-    <th style="border:1px solid #000;">Tuesday</th>
-    <th style="border:1px solid #000;">Wednesday</th>
-    <th style="border:1px solid #000;">Thursday</th>
-    <th style="border:1px solid #000;">Friday</th>
-  </tr>
+<tr>
+<th>Month</th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th>
+</tr>
 
-  <tr>
-    <td rowspan="6" style="border:1px solid #000; font-weight:bold;">January 2026</td>
-    <td style="border:1px solid #000;"></td>
-    <td style="border:1px solid #000;"></td>
-    <td style="border:1px solid #000;"></td>
-    <td style="border:1px solid #000;">1</td>
-    <td style="border:1px solid #000;">2</td>
-  </tr>
+<tr>
+<td rowspan="4"><b>January 2026</b></td>
+<td></td>
+<td></td>
+<td style="background:#c7d9a7;"><b>7</b><br><a href="https://docs.google.com/presentation/d/1Kgt8vIiubvuAOn8UM0QzRCzBEH6qRlUzv7u6jm9fh1o/edit?usp=sharing">Lec-1: Introduction & Course Logistics</a></td>
+<td>8</td>
+<td></td>
+</tr>
 
-  <tr>
-    <td style="border:1px solid #000; ">
-      <b>5</b><br>
-    </td>
-    <td style="border:1px solid; background:#c7d9a7;">
-      <b>6</b></br><a href="#">Lec-1: Introduction and Course Logistics</a><br>
-    </td>
-    <td style="border:1px solid #000;"><b>7</b><br></td>
-    <td style="border:1px solid #000;"><b>8</b><br></td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>9</b><br><a href="#">Lec-2: C++ Program Structure, Expressions & Statements</a></td>
-  </tr>
+<tr>
+<td style="background:#daa9a9ff;"><b>12</b><br>Lab-1</td>
+<td style="background:#c7d9a7;"><b>13</b><br>Lec-2: C++ Program Structure</td>
+<td style="color:red; font-weight:bold;">14<br>Holiday</td>
+<td>15</td>
+<td style="background:#c7d9a7;"><b>16</b><br><b>Compensation</b><br>Lec-3: Arrays & Pointers</td>
+</tr>
 
-  <tr>
-    <td style="border:1px solid;background:#daa9a9ff;"><b>12</b><br/><a href="https://github.com/PASS-IITG/lab-1/">Lab 1</a></td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>13</b><br><a href="#">Lec-3: Arrays, Pointers, References & Memory Layout</a></td>
-    <td style="border:1px solid #000; color:red; font-weight:bold;">14<br>Holiday</td>
-    <td style="border:1px solid #000;"><b>15</b><br></td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>16</b><br><a href="#">Lec-4: Classes, Constructors & Destructors</a><br/> Due: Assignment-1</td>
-  </tr>
+<tr>
+<td style="background:#daa9a9ff;"><b>19</b><br>Lab-2</td>
+<td style="background:#c7d9a7;"><b>20</b><br>Lec-4: Classes & Constructors</td>
+<td style="background:#c7d9a7;"><b>21</b><br>Lec-5: Encapsulation</td>
+<td style="background:#f9e388ff;">22 <br/> Assignment-1 Due</td>
+<td style="background:#cf4f4fff;"><b>23</b><br>Quiz-1</td>
+</tr>
 
-  <tr>
-    <td style="border:1px solid #000;background:#daa9a9ff;"><b>19</b><br/>Lec-5: Encapsulation, Dynamic Memory, Arrays of Objects, Pointers to Objects <br/>Lab 2:</td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>20</b><br>Lec-6: Function & Operator Overloading</td>
-    <td style="border:1px solid #000;"><b>21</b><br></td>
-    <td style="border:1px solid #000;"><b>22</b><br></td>
-    <td style="border:1px solid #000; background:#c7d9a7;background:#cf4f4fff;"><b>23</b><br>Quiz-1</td>
-  </tr>
-
-  <tr>
-    <td style="border:1px solid #000; color:red; font-weight:bold;">26<br>Holiday</td>
-    <td style="border:1px solid #000; background:#c7d9a7;"><b>27</b><br>Lec-7: Templates & File Input/Output</td>
-    <td style="border:1px solid #000;"><b>28</b><br></td>
-    <td style="border:1px solid #000"><b>29</b><br>Due: Assignment-2</td>
-    <td style="border:1px solid #000;border:1px solid #000; color:red; font-weight:bold;"><b>30</b><br>Alcheringa (No Class)</td>
-  </tr>
-
+<tr>
+<td style="color:red; font-weight:bold;">26<br>Holiday</td>
+<td style="background:#c7d9a7;"><b>27</b><br>Lec-6: Function & Operator Overloading</td>
+<td style="background:#c7d9a7;"><b>28</b><br>Lec-7: Templates & File I/O</td>
+<td>29</td>
+<td></td>
+</tr>
 </table>
+
 <br/>
+
 <!-- ===================== FEBRUARY 2026 ===================== -->
+<!--
 <table style="width:100%; border-collapse: collapse; text-align:center;">
-  <tr>
-    <th style="border:1px solid #000; width:10%;">Month</th>
-    <th style="border:1px solid #000;">Monday</th>
-    <th style="border:1px solid #000;">Tuesday</th>
-    <th style="border:1px solid #000;">Wednesday</th>
-    <th style="border:1px solid #000;">Thursday</th>
-    <th style="border:1px solid #000;">Friday</th>
-  </tr>
+<tr>
+<th>Month</th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th>
+</tr>
 
-  <tr>
-    <td rowspan="5" style="border:1px solid #000; font-weight:bold;">February 2026</td>
-   
-  </tr>
+<tr>
+<td rowspan="4"><b>February 2026</b></td>
+<td style="background:#daa9a9ff;"><b>2</b><br>Lab-3</td>
+<td style="background:#c7d9a7;"><b>3</b><br>Lec-8: Inheritance</td>
+<td style="background:#c7d9a7;"><b>4</b><br>Lec-9: Virtual Functions</td>
+<td>5</td>
+<td></td>
+</tr>
 
-  <tr>
-    <td style="border:1px solid #000;background:#daa9a9ff;"><b>2</b><br/>Lab 3:</td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>3</b><br>Lec-8: Inheritance Basics</td>
-    <td style="border:1px solid #000;"><b>4</b><br></td>
-    <td style="border:1px solid #000;"><b>5</b><br></td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>6</b><br>Lec-9: Virtual Functions & Abstract Classes <br/> Due: Assignment-3</td>
-  </tr>
+<tr>
+<td style="background:#daa9a9ff;"><b>9</b><br>Lab-4</td>
+<td style="background:#c7d9a7;"><b>10</b><br>Lec-10: Design Patterns</td>
+<td style="background:#c7d9a7;"><b>11</b><br>Lec-11: STL</td>
+<td>12</td>
+<td></td>
+</tr>
 
-  <tr>
-    <td style="border:1px solid #000;background:#daa9a9ff;"><b>9</b><br/>Lab 4:</td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>10</b><br>Lec-10: Intro to OOP Design Patterns</td>
-    <td style="border:1px solid #000;"><b>11</b><br></td>
-    <td style="border:1px solid #000;"><b>12</b><br></td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>13</b><br>Lec-11: STL Containers & Iterators<br/> Due Assignment-4</td>
-  </tr>
+<tr>
+<td style="background:#daa9a9ff;"><b>16</b><br>Lab-5</td>
+<td style="background:#c7d9a7;"><b>17</b><br>Lec-12: Linked Lists</td>
+<td style="background:#c7d9a7;"><b>18</b><br>Lec-13: List Operations</td>
+<td>19</td>
+<td></td>
+</tr>
 
-  <tr>
-    <td style="border:1px solid #000;background:#daa9a9ff;"><b>16</b><br/>Lab-5</td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>17</b><br>Lec-11</td>
-    <td style="border:1px solid #000;"><b>18</b><br></td>
-    <td style="border:1px solid #000;"><b>19</b><br></td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>20</b><br>Lec-12: Singly & Doubly Linked Lists<br/> Due: Assignment-5</td>
-  </tr>
-
-  <tr>
-    <td style="border:1px solid #000;background:#daa9a9ff;"><b>23</b><br/>Lec-13: Linked List Operations & Use Cases<br/>Lab-6</td>
-    <td style="border:1px solid #000;background:#c7d9a7;background:#cf4f4fff;"><b>24</b><br>Quiz-2</b></td>
-    <td style="border:1px solid #000;"><b>25</b><br></td>
-    <td style="border:1px solid #000;"><b>26</b><br></td>
-    <td style="border:1px solid #000;border:1px solid #000; color:red; font-weight:bold;"><b>27</b><br/>Due: Assignment-6<br>No class day</td>
-  </tr>
-
+<tr>
+<td style="background:#daa9a9ff;"><b>23</b><br>Lab-6</td>
+<td style="background:#cf4f4fff;"><b>24</b><br>Quiz-2</td>
+<td style="background:#c7d9a7;"><b>25</b><br>Lec-14: Stack ADT</td>
+<td>26</td>
+<td style="color:red; font-weight:bold;">27<br>No Class</td>
+</tr>
 </table>
-
+-->
 <br/>
+
 <!-- ===================== MARCH 2026 ===================== -->
+
+<!--
 <table style="width:100%; border-collapse: collapse; text-align:center;">
-  <tr>
-    <th style="border:1px solid #000; width:10%;">Month</th>
-    <th style="border:1px solid #000;">Monday</th>
-    <th style="border:1px solid #000;">Tuesday</th>
-    <th style="border:1px solid #000;">Wednesday</th>
-    <th style="border:1px solid #000;">Thursday</th>
-    <th style="border:1px solid #000;">Friday</th>
-  </tr>
+<tr>
+<th>Month</th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th>
+</tr>
 
-  <tr>
-    <td rowspan="6" style="border:1px solid #000; font-weight:bold;">March 2026</td>
-    <td style="border:1px solid #000;background:#f7edc5ff"><b>2</b><br>MID-SEM</td>
-    <td style="border:1px solid #000;background:#f7edc5ff"><b>3</b><br>MID-SEM</td>
-    <td style="border:1px solid #000;background:#f7edc5ff"><b>4</b><br>MID-TERM</td>
-    <td style="border:1px solid #000;background:#f7edc5ff"><b>5</b><br>MID-TERM</td>
-    <td style="border:1px solid #000;background:#f7edc5ff"><b>6</b><br>MID-SEM</td>
-  </tr>
+<tr>
+<td rowspan="4"><b>March 2026</b></td>
+<td style="background:#f7edc5ff;"><b>2</b><br>MID-SEM</td>
+<td style="background:#f7edc5ff;"><b>3</b><br>MID-SEM</td>
+<td style="background:#f7edc5ff;"><b>4</b><br>MID-SEM</td>
+<td>5</td>
+<td></td>
+</tr>
 
-  <tr>
-    <td style="border:1px solid #000;background:#daa9a9ff;"><b>9</b><br>Lab-7</td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>10</b><br>Lec-14: Stack ADT & Implementations</td>
-    <td style="border:1px solid #000;"><b>11</b><br></td>
-    <td style="border:1px solid #000;"><b>12</b><br></td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>13</b><br>Lec-15: Queues, Circular Queues & Deques<br/> Due assignment-7</td>
-  </tr>
+<tr>
+<td style="background:#daa9a9ff;"><b>9</b><br>Lab-7</td>
+<td style="background:#c7d9a7;"><b>10</b><br>Lec-15: Queues</td>
+<td style="background:#c7d9a7;"><b>11</b><br>Lec-16: Trees</td>
+<td>12</td>
+<td></td>
+</tr>
 
-  <tr>
-    <td style="border:1px solid #000;background:#daa9a9ff;"><b>16</b><br>Lab-8</td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>17</b><br>Lec-18: Trees & Binary Tree Traversals</td>
-    <td style="border:1px solid #000;"><b>18</b><br></td>
-    <td style="border:1px solid #000;"><b>19</b><br></td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>20</b><br>Lec-19: Binary Search Trees<br/> Due: Assignment-8</td>
-  </tr>
+<tr>
+<td style="background:#daa9a9ff;"><b>16</b><br>Lab-8</td>
+<td style="background:#c7d9a7;"><b>17</b><br>Lec-17: BST</td>
+<td style="background:#c7d9a7;"><b>18</b><br>Lec-18: Heaps</td>
+<td>19</td>
+<td></td>
+</tr>
 
-  <tr>
-    <td style="border:1px solid #000;background:#daa9a9ff;"><b>23</b><br>Lab-9</td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>24</b><br>Lec-20: Heaps</td>
-    <td style="border:1px solid #000;"><b>25</b><br></td>
-    <td style="border:1px solid #000;"><b>26</b><br></td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>27</b><br>Lec-21: Priority Queues <br/> Due: Assignment-9</td>
-  </tr>
-
-  <tr>
-    <td style="border:1px solid #000;background:#daa9a9ff;"><b>30</b><br>Lab-10 <br/> Quiz-3</td>
-    <td style="border:1px solid #000; color:red; font-weight:bold;">31<br>Holiday</td>
-    <td style="border:1px solid #000;"></td>
-    <td style="border:1px solid #000;"></td>
-    <td style="border:1px solid #000;"></td>
-  </tr>
-
+<tr>
+<td style="background:#daa9a9ff;"><b>30</b><br>Lab-9<br>Quiz-3</td>
+<td style="color:red; font-weight:bold;">31<br>Holiday</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
+
 <br/>
+-->
 <!-- ===================== APRIL 2026 ===================== -->
+<!--
 <table style="width:100%; border-collapse: collapse; text-align:center;">
-  <tr>
-    <th style="border:1px solid #000; width:10%;">Month</th>
-    <th style="border:1px solid #000;">Monday</th>
-    <th style="border:1px solid #000;">Tuesday</th>
-    <th style="border:1px solid #000;">Wednesday</th>
-    <th style="border:1px solid #000;">Thursday</th>
-    <th style="border:1px solid #000;">Friday</th>
-  </tr>
+<tr>
+<th>Month</th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th>
+</tr>
 
-  <tr>
-    <td rowspan="5" style="border:1px solid #000; font-weight:bold;">April 2026</td>
-    <td style="border:1px solid #000;"></td>
-    <td style="border:1px solid #000;"></td>
-    <td style="border:1px solid #000;"><b>1</b><br></td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>2</b><br/>Lec-22: Hash Functions & Collisions(Class with Friday Time table)<br/> Due: Assignment-10</td>
-    <td style="border:1px solid #000; color:red; font-weight:bold;">3<br>Holiday</td>
-  </tr>
+<tr>
+<td rowspan="4"><b>April 2026</b></td>
+<td></td>
+<td></td>
+<td><b>1</b></td>
+<td><b>2</b></td>
+<td style="color:red; font-weight:bold;">3<br>Holiday</td>
+</tr>
 
-  <tr>
-    <td style="border:1px solid #000;background:#daa9a9ff;"><b>6</b><br>Lab-11</td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>7</b><br>Lec-23: Hash Tables</td>
-    <td style="border:1px solid #000;"><b>8</b><br></td>
-    <td style="border:1px solid #000;"><b>9</b><br></td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>10</b><br>Lec-24: Graph Representations & Traversals<br/> Due: Assignment-11</td>
-  </tr>
+<tr>
+<td style="background:#daa9a9ff;"><b>6</b><br>Lab-10</td>
+<td style="background:#c7d9a7;"><b>7</b><br>Lec-19: Hash Tables</td>
+<td style="background:#c7d9a7;"><b>8</b><br>Lec-20: Graphs</td>
+<td>9</td>
+<td></td>
+</tr>
 
-  <tr>
-    <td style="border:1px solid #000;background:#daa9a9ff;"><b>13</b><br>Lec-25: Shortest Paths & Topological Sort, Lab-12</td>
-    <td style="border:1px solid #000; color:red; font-weight:bold;">14<br>Holiday</td>
-    <td style="border:1px solid #000; color:red; font-weight:bold;">15<br>Holiday</td>
-    <td style="border:1px solid #000;"><b>16</b><br></td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>17</b><br>Lec-26: Quicksort, Mergesort & Heapsort</td>
-  </tr>
+<tr>
+<td style="background:#daa9a9ff;"><b>13</b><br>Lab-11</td>
+<td style="color:red; font-weight:bold;">14<br>Holiday</td>
+<td style="color:red; font-weight:bold;">15<br>Holiday</td>
+<td>16</td>
+<td style="background:#c7d9a7;"><b>17</b><br><b>Compensation</b><br>Lec-21: Sorting</td>
+</tr>
 
-  <tr>
-    <td style="border:1px solid #000;background:#daa9a9ff;"><b>20</b><br>Lab-13</td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>21</b><br>Lecture-26</td>
-    <td style="border:1px solid #000;"><b>22</b><br></td>
-    <td style="border:1px solid #000;"><b>23</b><br></td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>24</b><br>Lecture-27 <br/> Due asssigment-12</td>
-  </tr>
-
-  <tr>
-    <td style="border:1px solid #000;background:#daa9a9ff;"><b>27</b><br>Lab-14<br/> Quiz-4</td>
-    <td style="border:1px solid #000;background:#c7d9a7;"><b>28</b><br>Lecture-28</td>
-    <td style="border:1px solid #000;"><b>29</b><br></td>
-    <td style="border:1px solid #000;"><b>30</b></td>
-    <td style="border:1px solid #000;"></td>
-  </tr>
-
+<tr>
+<td style="background:#daa9a9ff;"><b>20</b><br>Lab-12</td>
+<td style="background:#c7d9a7;"><b>21</b><br>Lec-22: Advanced Sorting</td>
+<td style="background:#c7d9a7;"><b>22</b><br>Lec-23: Graph Algorithms</td>
+<td>23</td>
+<td></td>
+</tr>
 </table>
+
 <br/>
-<!-- ===================== May 2026 ===================== -->
+-->
+<!-- ===================== MAY 2026 ===================== -->
+<!--
 <table style="width:100%; border-collapse: collapse; text-align:center;">
-  <tr>
-    <th style="border:1px solid #000; width:10%;">Month</th>
-    <th style="border:1px solid #000;">Monday</th>
-    <th style="border:1px solid #000;">Tuesday</th>
-    <th style="border:1px solid #000;">Wednesday</th>
-    <th style="border:1px solid #000;">Thursday</th>
-    <th style="border:1px solid #000;">Friday</th>
-  </tr>
-
-  <tr>
-    <td rowspan="1" style="border:1px solid #000; font-weight:bold;">May 2026</td>
-    <td style="border:1px solid #000;" colspan="5">END-SEM</td>
-   
-  </tr>
-
- 
-
+<tr>
+<td><b>May 2026</b></td>
+<td colspan="5" style="background:#f7edc5ff;"><b>END-SEMESTER EXAMINATION</b></td>
+</tr>
 </table>
+-->
