@@ -24,25 +24,43 @@
 
 <tr>
 <td style="background:#daa9a9ff;"><b>12</b><br>Lab-1</td>
-<td style="background:#c7d9a7;"><b>13</b><br>Lec-2: C++ Program Structure</td>
+<td style="background:#c7d9a7;"><b>13</b><br><a href="https://docs.google.com/presentation/d/13WVsxgRwQHDCkWDxkANPk4WPUa7aw8S92ImdFCurT80/edit?usp=sharing">Lec-2: C++ Program Structure </a></td>
 <td style="color:red; font-weight:bold;">14<br>Holiday</td>
 <td>15</td>
-<td style="background:#c7d9a7;"><b>16</b><br><b>Compensation</b><br>Lec-3: Arrays & Pointers</td>
+<td style="background:red;"><b>16</b><br><b>Lab 1 Due</b><br></td>
 </tr>
 
 <tr>
-<td style="background:#daa9a9ff;"><b>19</b><br>Lab-2</td>
-<td style="background:#c7d9a7;"><b>20</b><br>Lec-4: Classes & Constructors</td>
-<td style="background:#c7d9a7;"><b>21</b><br>Lec-5: Encapsulation</td>
-<td style="background:#f9e388ff;">22 <br/> Assignment-1 Due</td>
-<td style="background:#cf4f4fff;"><b>23</b><br>Quiz-1</td>
+<td style="text-align:center;">
+  <b>19</b>
+  <div style="background:red; font-weight:bold;">
+    Quiz-1 (9:00–9:55 AM)
+  </div>
+  <div style="background:#daa9a9ff; padding:4px; margin-top:2px;">
+    Lab-2
+  </div>
+</td>
+
+
+<td style="background:#c7d9a7;"><b>20</b><br>
+Lec-3: Arrays & Pointers
+</td>
+<td style="background:#c7d9a7;"><b>21</b><br>
+Lec-4: Classes & Constructors
+</td>
+<td >22 <br/> </td>
+<td  ><b>23</b><br></td>
 </tr>
 
 <tr>
 <td style="color:red; font-weight:bold;">26<br>Holiday</td>
-<td style="background:#c7d9a7;"><b>27</b><br>Lec-6: Function & Operator Overloading</td>
-<td style="background:#c7d9a7;"><b>28</b><br>Lec-7: Templates & File I/O</td>
-<td>29</td>
+<td style="background:#c7d9a7;"><b>27</b><br>
+Lec-5: Encapsulation
+</td>
+<td style="background:#c7d9a7;"><b>28</b><br>
+Lec-6: Function & Operator Overloading
+</td>
+<td style="background: red;">29 <br>Assignment-1 Due</td>
 <td></td>
 </tr>
 </table>
@@ -59,7 +77,9 @@
 <tr>
 <td rowspan="4"><b>February 2026</b></td>
 <td style="background:#daa9a9ff;"><b>2</b><br>Lab-3</td>
-<td style="background:#c7d9a7;"><b>3</b><br>Lec-8: Inheritance</td>
+<td style="background:#c7d9a7;"><b>3</b><br>
+Lec-7: Templates & File I/O
+Lec-8: Inheritance</td>
 <td style="background:#c7d9a7;"><b>4</b><br>Lec-9: Virtual Functions</td>
 <td>5</td>
 <td></td>
