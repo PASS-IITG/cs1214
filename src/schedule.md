@@ -1,11 +1,18 @@
 <h3>Course Schedule & Timings</h3>
 
 <ul>
-<li><b>Monday:</b> 2:00–5:00 PM (Computer & Communication Centre) — Lab</li>
+
   <li><b>Tuesday:</b> 10:00–10:55 AM (Room 5401) — Lecture</li>
   <li><b>Wednesday:</b> 11:00–11:55 AM (Room 5401) — Lecture</li>
-  <li><b>Friday:8:00-8:55 AM (Room 5401)</b> Compensation class only (if Tue/Wed is a holiday) & Quiz</li>
+  
+  <li><b>Friday:</b> 2:00–5:00 PM (Computer & Communication Centre) — Lab</li>
 </ul>
+
+<li><b>Monday: 9:00-9:55 AM (Room 5401)</b> Compensation class only (if Tue/Wed is a holiday) & Quiz</li>
+<li><b>Quiz:</b> The room will be announced at least two days prior to the quiz.</li>
+
+<br/>
+
 
 <!-- ===================== JANUARY 2026 ===================== -->
 <table style="width:100%; border-collapse: collapse; text-align:center;">
@@ -23,7 +30,7 @@
 </tr>
 
 <tr>
-<td style="background:#daa9a9ff;"><b>12</b><br>Lab-1</td>
+<td style="background:#daa9a9ff;"><b>12</b><br><a href="https://classroom.github.com/a/-GmRt-j2">Lab-1</a></td>
 <td style="background:#c7d9a7;"><b>13</b><br><a href="https://docs.google.com/presentation/d/13WVsxgRwQHDCkWDxkANPk4WPUa7aw8S92ImdFCurT80/edit?usp=sharing">Lec-2: C++ Program Structure </a></td>
 <td style="color:red; font-weight:bold;">14<br>Holiday</td>
 <td>15</td>
@@ -31,25 +38,19 @@
 </tr>
 
 <tr>
-<td style="text-align:center;">
-  <b>19</b>
-  <div style="background:red; font-weight:bold;">
-    Quiz-1 (9:00–9:55 AM)
-  </div>
-  <div style="background:#daa9a9ff; padding:4px; margin-top:2px;">
-    Lab-2
-  </div>
+<td style="background:#c7d9a7;"><b>19</b><br>
+Lec-3: Arrays & Pointers
 </td>
 
 
 <td style="background:#c7d9a7;"><b>20</b><br>
-Lec-3: Arrays & Pointers
-</td>
-<td style="background:#c7d9a7;"><b>21</b><br>
 Lec-4: Classes & Constructors
 </td>
+<td style="background:red;"><b>21</b><br>
+Quiz-1
+</td>
 <td >22 <br/> </td>
-<td  ><b>23</b><br></td>
+<td style="background:#daa9a9ff;" ><b>23</b><br>Lab-2</td>
 </tr>
 
 <tr>
