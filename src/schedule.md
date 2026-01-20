@@ -39,12 +39,12 @@
 
 <tr>
 <td style="background:#c7d9a7;"><b>19</b><br>
-Lec-3: Arrays & Pointers
-</td>
+<a href="https://docs.google.com/presentation/d/1xEzpcZ3rsg05GP4hppgrsJaCsOt9hx1cmR5tA-UK8sI/edit?usp=sharing">Lec-3: Expression
+</a></td>
 
 
 <td style="background:#c7d9a7;"><b>20</b><br>
-Lec-4: Classes & Constructors
+<a href="https://docs.google.com/presentation/d/15816GzA-buXQ0vVrxZ4Ca7PxwDWBjU_1FCv7d3DHSVs/edit?usp=sharing">Lec-4: Arrays, Pointers and References</a>
 </td>
 <td style="background:red;"><b>21</b><br>
 Quiz-1
