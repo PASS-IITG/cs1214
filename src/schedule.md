@@ -62,7 +62,7 @@ Lec-5: Encapsulation
 Lec-6: Function & Operator Overloading
 </td>
 <td style="background: red;">29 <br>Assignment-1 Due</td>
-<td></td>
+<td style="background:#daa9a9ff;"><b>30 </b><br/>Lab-3</td>
 </tr>
 </table>
 
