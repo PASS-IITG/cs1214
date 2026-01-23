@@ -3,9 +3,9 @@
 ## 🧪 Lab 2: Arrays, Pointers, References, Stack and Queue Implementation
 
 - Please join **Lab 2** using the GitHub Classroom link below:
-  👉 [GitHub Classroom Invitation](https://classroom.github.com/a/bhCCgOlO)
+  👉 [GitHub Classroom Invitation](https://classroom.github.com/a/kJVspPBK)
 
-https://classroom.github.com/a/bhCCgOlO
+
 
 ## 🧪 Lab 1: GitHub Classroom Setup & String Utils
 

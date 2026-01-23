@@ -5,7 +5,7 @@
  * **Lab 2:** Arrays, Pointers, References, Stack and Queue Implementation
 
 - Please join **Lab 2** using the GitHub Classroom link below:
-  👉 [GitHub Classroom Invitation](https://classroom.github.com/a/bhCCgOlO)
+  👉 [GitHub Classroom Invitation](https://classroom.github.com/a/kJVspPBK)
 
 ### 🗓️ January 20
 * **Lecture 4:** [*Arrays, Pointers & References*](https://docs.google.com/presentation/d/15816GzA-buXQ0vVrxZ4Ca7PxwDWBjU_1FCv7d3DHSVs/edit?usp=sharing)
