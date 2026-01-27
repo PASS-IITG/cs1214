@@ -1,9 +1,5 @@
 # Labs
 
-## 🧪 Lab 3: Setup required before lab session
-
-- Please join **Lab 3** using the GitHub Classroom link below:
-  👉 [GitHub Classroom Invitation](https://classroom.github.com/a/LP5BhKkD)
 
 
 ## 🧪 Lab 2: Arrays, Pointers, References, Stack and Queue Implementation
@@ -20,3 +16,4 @@
 
 - Make sure you are logged in using your **official IITG email ID** before accepting the invitation.
 
+Bharat sam 28
