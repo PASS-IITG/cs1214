@@ -1,5 +1,11 @@
 # Labs
 
+## 🧪 Lab 3: Setup required before lab session
+
+- Please join **Lab 3** using the GitHub Classroom link below:
+  👉 [GitHub Classroom Invitation](https://classroom.github.com/a/LP5BhKkD)
+
+
 ## 🧪 Lab 2: Arrays, Pointers, References, Stack and Queue Implementation
 
 - Please join **Lab 2** using the GitHub Classroom link below:
