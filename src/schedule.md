@@ -50,19 +50,19 @@
 Quiz-1
 </td>
 <td >22 <br/> </td>
-<td style="background:#daa9a9ff;" ><b>23</b><br>Lab-2</td>
+<td style="background:#daa9a9ff;" ><b>23</b><br><a href="https://classroom.github.com/a/SqTBD711">Lab-2</a></td>
 </tr>
 
 <tr>
 <td style="color:red; font-weight:bold;">26<br>Holiday</td>
 <td style="background:#c7d9a7;"><b>27</b><br>
-Lec-5: Encapsulation
+<a href="https://docs.google.com/presentation/d/148mpeGEnncGQBBxC3gr45NxY6IEkI8HYV0zj6Cpn5AI/edit?usp=sharing"> Lec-5: Structures & Classes </a>
 </td>
 <td style="background:#c7d9a7;"><b>28</b><br>
-Lec-6: Function & Operator Overloading
+<a href="https://docs.google.com/presentation/d/1zGHdJMISYKlJJGkKSk_jokMcyt5TlIlD1AhbQQiSrYA/edit?usp=sharing">Lec-6: Classes continue </a>
 </td>
-<td style="background: red;">29 <br>Assignment-1 Due</td>
-<td style="background:#daa9a9ff;"><b>30 </b><br/>Lab-3</td>
+<td style="">29 <br></td>
+<td style="background:#daa9a9ff;">30 </td>
 </tr>
 </table>
 
