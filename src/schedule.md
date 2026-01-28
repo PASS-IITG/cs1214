@@ -62,7 +62,7 @@ Quiz-1
 <a href="https://docs.google.com/presentation/d/1zGHdJMISYKlJJGkKSk_jokMcyt5TlIlD1AhbQQiSrYA/edit?usp=sharing">Lec-6: Classes continue </a>
 </td>
 <td style="">29 <br></td>
-<td style="background:#daa9a9ff;">30 </td>
+<td style="background:#daa9a9ff;"> 30 <br/> Lab 2- extended due </td>
 </tr>
 </table>
 
