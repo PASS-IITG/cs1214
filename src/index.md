@@ -1,6 +1,12 @@
 # 📢  Announcements
 ---
 
+###  🗓️ February 3
+** 🧪 Lab 3**: Join before the lab session (6/2/2026)
+
+- Please join **Lab 2** using the GitHub Classroom link below:
+  👉 [GitHub Classroom Invitation](https://classroom.github.com/a/6XtoQ_WW)
+
 ###  🗓️ January 23
  * **Lab 2:** Arrays, Pointers, References, Stack and Queue Implementation
 
