@@ -22,4 +22,3 @@
 
 - Make sure you are logged in using your **official IITG email ID** before accepting the invitation.
 
-Bharat sam 28
