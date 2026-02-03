@@ -1,6 +1,10 @@
 # 📢  Announcements
 ---
 
+### 🗓️ February 3
+* **Lecture 7:** [*C++ Classes & Constructors*](https://docs.google.com/presentation/d/1V8XMxYl1REYPeq48EqQgRPv--08lbEenotSjZPYmHqk/edit?usp=sharing)
+
+
 ###  🗓️ February 3
 ** 🧪 Lab 3**: Join before the lab session (6/2/2026)
 
