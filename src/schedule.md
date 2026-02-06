@@ -24,14 +24,14 @@
 <td rowspan="4"><b>January 2026</b></td>
 <td></td>
 <td></td>
-<td style="background:#c7d9a7;"><b>7</b><br><a href="https://docs.google.com/presentation/d/1Kgt8vIiubvuAOn8UM0QzRCzBEH6qRlUzv7u6jm9fh1o/edit?usp=sharing">Lec-1: Introduction & Course Logistics</a></td>
+<td style="background:#c7d9a7;"><b>7</b><br><a href="slides/CS-1214_ Introduction & Logistics.pdf">Lec-1: Introduction & Course Logistics</a></td>
 <td>8</td>
 <td></td>
 </tr>
 
 <tr>
 <td style="background:#daa9a9ff;"><b>12</b><br><a href="https://classroom.github.com/a/-GmRt-j2">Lab-1</a></td>
-<td style="background:#c7d9a7;"><b>13</b><br><a href="https://docs.google.com/presentation/d/13WVsxgRwQHDCkWDxkANPk4WPUa7aw8S92ImdFCurT80/edit?usp=sharing">Lec-2: C++ Program Structure </a></td>
+<td style="background:#c7d9a7;"><b>13</b><br><a href="slides/Lecture-2_ Types & Structs.pdf">Lec-2: C++ Program Structure </a></td>
 <td style="color:red; font-weight:bold;">14<br>Holiday</td>
 <td>15</td>
 <td style="background:red;"><b>16</b><br><b>Lab 1 Due</b><br></td>
@@ -39,12 +39,12 @@
 
 <tr>
 <td style="background:#c7d9a7;"><b>19</b><br>
-<a href="https://docs.google.com/presentation/d/1xEzpcZ3rsg05GP4hppgrsJaCsOt9hx1cmR5tA-UK8sI/edit?usp=sharing">Lec-3: Expression
+<a href="slides/Lecture 3_ Expressions.pdf">Lec-3: Expression
 </a></td>
 
 
 <td style="background:#c7d9a7;"><b>20</b><br>
-<a href="https://docs.google.com/presentation/d/15816GzA-buXQ0vVrxZ4Ca7PxwDWBjU_1FCv7d3DHSVs/edit?usp=sharing">Lec-4: Arrays, Pointers and References</a>
+<a href="slides/Lecture-4_ Arrays, Pointers and References.pdf">Lec-4: Arrays, Pointers and References</a>
 </td>
 <td style="background:red;"><b>21</b><br>
 Quiz-1
@@ -56,10 +56,10 @@ Quiz-1
 <tr>
 <td style="color:red; font-weight:bold;">26<br>Holiday</td>
 <td style="background:#c7d9a7;"><b>27</b><br>
-<a href="https://docs.google.com/presentation/d/148mpeGEnncGQBBxC3gr45NxY6IEkI8HYV0zj6Cpn5AI/edit?usp=sharing"> Lec-5: Structures & Classes </a>
+<a href="slides/Lecture-5_ Class.pdf"> Lec-5: Structures & Classes </a>
 </td>
 <td style="background:#c7d9a7;"><b>28</b><br>
-<a href="https://docs.google.com/presentation/d/1zGHdJMISYKlJJGkKSk_jokMcyt5TlIlD1AhbQQiSrYA/edit?usp=sharing">Lec-6: Classes continue </a>
+<a href="slides/Lecture 6_ Class Continue.pdf">Lec-6: Classes continue </a>
 </td>
 <td style="">29 <br></td>
 <td style="background:#daa9a9ff;"> 30 <br/> Lab 2- extended due </td>
@@ -69,7 +69,7 @@ Quiz-1
 <br/>
 
 <!-- ===================== FEBRUARY 2026 ===================== -->
-<!--
+
 <table style="width:100%; border-collapse: collapse; text-align:center;">
 <tr>
 <th>Month</th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th>
@@ -77,40 +77,40 @@ Quiz-1
 
 <tr>
 <td rowspan="4"><b>February 2026</b></td>
-<td style="background:#daa9a9ff;"><b>2</b><br>Lab-3</td>
+<td style="background:#daa9a9ff;"><b>2</b><br></td>
 <td style="background:#c7d9a7;"><b>3</b><br>
-Lec-7: Templates & File I/O
-Lec-8: Inheritance</td>
-<td style="background:#c7d9a7;"><b>4</b><br>Lec-9: Virtual Functions</td>
+<a href="slides/ Lecture 7_ Constructors.pdf">Lec-7: Classes & Constructors </a>
+</td>
+<td style="background:#c7d9a7;"><b>4</b><br><a href="slides/Lecture 8_ C++ Destructors.pdf">Lec-8: C++ Copy, Assignment, Move Constructors & Destructor</a></td>
 <td>5</td>
-<td></td>
+<td>6 <br/>Lab-3</td>
 </tr>
 
 <tr>
-<td style="background:#daa9a9ff;"><b>9</b><br>Lab-4</td>
-<td style="background:#c7d9a7;"><b>10</b><br>Lec-10: Design Patterns</td>
-<td style="background:#c7d9a7;"><b>11</b><br>Lec-11: STL</td>
+<td style="background:#daa9a9ff;">9<br></td>
+<td style="background:#c7d9a7;"><b>10</b><br>Lec-9: </td>
+<td style="background:#c7d9a7;"><b>11</b><br>Lec-10: </td>
 <td>12</td>
-<td></td>
+<td>13 <br/> Lab-4</td>
 </tr>
 
 <tr>
-<td style="background:#daa9a9ff;"><b>16</b><br>Lab-5</td>
-<td style="background:#c7d9a7;"><b>17</b><br>Lec-12: Linked Lists</td>
-<td style="background:#c7d9a7;"><b>18</b><br>Lec-13: List Operations</td>
+<td style="background:#daa9a9ff;">16</td>
+<td style="background:#c7d9a7;"><b>17</b><br>Lec-11: </td>
+<td style="background:#c7d9a7;"><b>18</b><br>Lec-13: </td>
 <td>19</td>
-<td></td>
+<td>20 <br/> Lab-5</td>
 </tr>
 
 <tr>
-<td style="background:#daa9a9ff;"><b>23</b><br>Lab-6</td>
-<td style="background:#cf4f4fff;"><b>24</b><br>Quiz-2</td>
-<td style="background:#c7d9a7;"><b>25</b><br>Lec-14: Stack ADT</td>
-<td>26</td>
+<td style="background:#daa9a9ff;">23 <br/> Quiz-2</td>
+<td style="background:#cf4f4fff;"><b>24</b><br>Lecture-14</td>
+<td style="background:#c7d9a7;"><b>25</b><br>Lec-15: </td>
+<td>26<br> Assignment-1 Due</td>
 <td style="color:red; font-weight:bold;">27<br>No Class</td>
 </tr>
 </table>
--->
+
 <br/>
 
 <!-- ===================== MARCH 2026 ===================== -->
