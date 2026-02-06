@@ -1,7 +1,5 @@
 # 📢  Announcements
 ---
-### 🗓️ February 4
-* **Lecture 8:** [*C++ Destructors, Copy, Assignment & Move Constructors*](https://docs.google.com/presentation/d/1y8wFZKBNjxft7i-2MPxPLxGpKK75JVarot44CkQfers/edit?usp=sharing)
 
 ###  🗓️ February 6
 * **🧪 Lab 3**: Sorting Implemetation, Stack and Queue in C++
