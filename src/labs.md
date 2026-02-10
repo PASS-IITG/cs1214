@@ -2,6 +2,15 @@
 
 ## 🧪 Lab 3: Join before the lab session (6/2/2026)
 
+```cpp
+MyArray(const int* arr, size_t n);
+
+Usage:
+```cpp
+int data[] = {10, 20, 30, 40, 50};
+    MyArray original(data, 5);
+```
+
 - Please join **Lab 3** using the GitHub Classroom link below:
   👉 [GitHub Classroom Invitation](https://classroom.github.com/a/6XtoQ_WW)
 

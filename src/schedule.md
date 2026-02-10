@@ -88,7 +88,7 @@ Quiz-1
 
 <tr>
 <td style="background:#daa9a9ff;">9<br></td>
-<td style="background:#c7d9a7;"><b>10</b><br>Lec-9: </td>
+<td style="background:#c7d9a7;"><b>10</b><br><a href="slides/Lecture-9-C++%20Inheritance.pdf">Lecture-9: C++ Inheritance</a> </td>
 <td style="background:#c7d9a7;"><b>11</b><br>Lec-10: </td>
 <td>12</td>
 <td>13 <br/> Lab-4</td>

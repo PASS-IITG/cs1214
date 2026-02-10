@@ -1,9 +1,14 @@
 # 📢  Announcements
 ---
 
+###  🗓️ February 10
+* **Lecture 9:** [*C++ Inheritance*](slides/Lecture-9-C++%20Inheritance.pdf)
+
+
+
 ###  🗓️ February 6
 * **🧪 Lab 3**: Sorting Implemetation, Stack and Queue in C++
-- Please join **Lab 2** using the GitHub Classroom link below:
+- Please join **Lab 3** using the GitHub Classroom link below:
   👉 [GitHub Classroom Invitation](https://classroom.github.com/a/6XtoQ_WW)
 
 
