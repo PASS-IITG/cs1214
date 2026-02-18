@@ -1,6 +1,11 @@
 # 📢  Announcements
 ---
 
+###  🗓️ February 18
+
+- Please join **Lab 5** using the GitHub Classroom link below:
+  👉 [GitHub Classroom Invitation](https://classroom.github.com/a/8puJfYqY)
+
 ###  🗓️ February 10
 * **Lecture 9:** [*C++ Inheritance*](slides/Lecture-9-C++%20Inheritance.pdf)
 
