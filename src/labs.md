@@ -1,5 +1,10 @@
 # Labs
 
+## 🧪 Lab 5: Join before the lab session (20/2/2026)
+
+- Please join **Lab 5** using the GitHub Classroom link below:
+  👉 [GitHub Classroom Invitation](https://classroom.github.com/a/8puJfYqY)
+
 ## 🧪 Lab 4: Join before the lab session (13/2/2026)
 
 - Please join **Lab 4** using the GitHub Classroom link below:
