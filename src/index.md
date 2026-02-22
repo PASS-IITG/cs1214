@@ -1,6 +1,12 @@
 # 📢  Announcements
 ---
 
+###  🗓️ February 22
+
+- Please join **Lab 6** using the GitHub Classroom link below:
+  👉 [GitHub Classroom Invitation](https://classroom.github.com/a/QXkn1Teq)
+
+
 ###  🗓️ February 18
 
 - Please join **Lab 5** using the GitHub Classroom link below:
