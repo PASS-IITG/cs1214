@@ -88,24 +88,24 @@ Quiz-1
 
 <tr>
 <td style="background:#daa9a9ff;">9<br></td>
-<td style="background:#c7d9a7;"><b>10</b><br><a href="slides/Lecture-9-C++%20Inheritance.pdf">Lecture-9: C++ Inheritance</a> </td>
-<td style="background:#c7d9a7;"><b>11</b><br>Lec-10: </td>
+<td style="background:#c7d9a7;"><b>10</b><br><a href="slides/Lecture-9-Inheritance.pdf">Lecture-9: C++ Inheritance</a> </td>
+<td style="background:#c7d9a7;"><b>11</b><br><a href="slides/Lecture-10-Polymorphism.pdf">Lecture-10: Virtual Functions & Polymorphism </a> </td>
 <td>12</td>
-<td>13 <br/> Lab-4</td>
+<td>13 <br/> <a href="https://classroom.github.com/a/6XtoQ_WW">Lab-4</a></td>
 </tr>
 
 <tr>
 <td style="background:#daa9a9ff;">16</td>
-<td style="background:#c7d9a7;"><b>17</b><br>Lec-11: </td>
-<td style="background:#c7d9a7;"><b>18</b><br>Lec-13: </td>
+<td style="background:#c7d9a7;"><b>17</b><br>Lec-11: Live Coding </td>
+<td style="background:#c7d9a7;"><b>18</b><br>Lec-13: Live Coding </td>
 <td>19</td>
-<td>20 <br/> Lab-5</td>
+<td>20 <br/> <a href="https://classroom.github.com/a/8puJfYqY">Lab-5</a></td>
 </tr>
 
 <tr>
 <td style="background:#daa9a9ff;">23 <br/> Quiz-2</td>
-<td style="background:#cf4f4fff;"><b>24</b><br>Lecture-14</td>
-<td style="background:#c7d9a7;"><b>25</b><br>Lec-15: </td>
+<td style="background:#daa9a9ff;"><b>24</b><br><a href="https://classroom.github.com/a/QXkn1Teq">Lab-6 (Friday Time Table)</a></td>
+<td style="background:#c7d9a7;"><b>25</b><br>Class Cancelled </td>
 <td>26<br> Assignment-1 Due</td>
 <td style="color:red; font-weight:bold;">27<br>No Class</td>
 </tr>
@@ -115,40 +115,60 @@ Quiz-1
 
 <!-- ===================== MARCH 2026 ===================== -->
 
-<!--
+
+<!-- ===================== MARCH 2026 ===================== -->
+
 <table style="width:100%; border-collapse: collapse; text-align:center;">
 <tr>
 <th>Month</th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th>
 </tr>
 
 <tr>
-<td rowspan="4"><b>March 2026</b></td>
+<td rowspan="5"><b>March 2026</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td style="background:#f7edc5ff;"><b>2</b><br>MID-SEM</td>
 <td style="background:#f7edc5ff;"><b>3</b><br>MID-SEM</td>
 <td style="background:#f7edc5ff;"><b>4</b><br>MID-SEM</td>
 <td>5</td>
-<td></td>
+<td>6</td>
 </tr>
 
 <tr>
-<td style="background:#daa9a9ff;"><b>9</b><br>Lab-7</td>
-<td style="background:#c7d9a7;"><b>10</b><br>Lec-15: Queues</td>
-<td style="background:#c7d9a7;"><b>11</b><br>Lec-16: Trees</td>
+<td style=""><b>9</b> <br></td>
+<td style="background:#c7d9a7;"><b>10</b><br> 
+<a href="slides/Lecture-13-Class Templates.pdf">Lecture-13: Class Templates</a>
+</td>
+<td style="background:#c7d9a7;"><b>11</b><br/><a href="slides/Lecture-14-Function Templates.pdf">Lecture-14: Function Templates</a></td>
 <td>12</td>
-<td></td>
+<td style="background:#c7d9a7;">13 <br><a href="https://classroom.github.com/a/lBY_5SVm">Lab-7</a></td>
 </tr>
 
 <tr>
-<td style="background:#daa9a9ff;"><b>16</b><br>Lab-8</td>
-<td style="background:#c7d9a7;"><b>17</b><br>Lec-17: BST</td>
-<td style="background:#c7d9a7;"><b>18</b><br>Lec-18: Heaps</td>
+<td style="background:#daa9a9ff;"><b>16</b></td>
+<td style="background:#c7d9a7;"><b>17</b><br>Lec-17:</td>
+<td style="background:#c7d9a7;"><b>18</b><br>Lec-18:</td>
 <td>19</td>
-<td></td>
+<td>20</td>
+</tr>
+
+<tr>
+<td style="background:#daa9a9ff;"><b>23</b></td>
+<td style="background:#c7d9a7;"><b>24</b></td>
+<td style="background:#c7d9a7;"><b>25</b></td>
+<td>26</td>
+<td>27</td>
 </tr>
 
 <tr>
 <td style="background:#daa9a9ff;"><b>30</b><br>Lab-9<br>Quiz-3</td>
-<td style="color:red; font-weight:bold;">31<br>Holiday</td>
+<td style="color:red; font-weight:bold;"><b>31</b><br>Holiday</td>
 <td></td>
 <td></td>
 <td></td>
@@ -156,7 +176,7 @@ Quiz-1
 </table>
 
 <br/>
--->
+
 <!-- ===================== APRIL 2026 ===================== -->
 <!--
 <table style="width:100%; border-collapse: collapse; text-align:center;">
