@@ -1,6 +1,10 @@
 # 📢  Announcements
 ---
 
+###  🗓️ March 17
+#### Assignment-2:
+  👉 [GitHub Classroom Invitation](https://classroom.github.com/a/_eq4jw4C). Due Mar 28, 2026
+  
 ###  🗓️ March 11
 
 - Please join **Lab 7** using the GitHub Classroom link below:
