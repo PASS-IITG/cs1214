@@ -226,8 +226,11 @@ Lec-14: Function Templates
 
 <tr>
 <td>16</td>
-<td class="lecture">17<br>Lec-15</td>
-<td class="lecture">18<br>Lec-16</td>
+<td class="lecture">17<br>Lec-15-Live Coding <Class Template> </td>
+<td class="lecture">18<br> <br>
+<a href="slides/Lec-16-Operator Overloading.pdf">
+Lec-16: Operator Overloading
+</a></td>
 <td>19</td>
 <td class="lab">20<br>Lab-8</td>
 </tr>
