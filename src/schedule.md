@@ -228,7 +228,7 @@ Lec-14: Function Templates
 <td>16</td>
 <td class="lecture">17<br>Lec-15-Live Coding <Class Template> </td>
 <td class="lecture">18<br> <br>
-<a href="slides/Lec-16-Operator Overloading.pdf">
+<a href="slides/Lec-16-Operator Overloading-part-1.pdf">
 Lec-16: Operator Overloading
 </a></td>
 <td>19</td>
@@ -244,7 +244,7 @@ Lec-16: Operator Overloading
 </tr>
 
 <tr>
-<td class="quiz">30<br>Quiz-3</td>
+<td>30<br></td>
 <td class="holiday">31<br>Holiday</td>
 <td></td>
 <td></td>
@@ -274,7 +274,7 @@ Lec-16: Operator Overloading
 </tr>
 
 <tr>
-<td>6</td>
+<td class="quiz">6 <br> Quiz-3</td>
 <td class="lecture">7<br>Lec-21</td>
 <td class="lecture">8<br>Lec-22</td>
 <td>9</td>

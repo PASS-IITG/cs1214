@@ -1,6 +1,12 @@
 # 📢  Announcements
 ---
 
+###  🗓️ March 18
+* **Lecture 16:** [*Operator Overloading*](slides/Lec-16-Operator Overloading-part-1.pdf) 
+
+###  🗓️ March 17
+* **Lecture 15:** *Class Template Live Coding*
+
 ###  🗓️ March 17
 #### Assignment-2:
   👉 [GitHub Classroom Invitation](https://classroom.github.com/a/_eq4jw4C). Due Mar 28, 2026
