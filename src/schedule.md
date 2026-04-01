@@ -240,7 +240,7 @@ Lec-16: Operator Overloading
 <td class="lecture">24<br><a href="slides/Lecture-17-OperatorOverloading.pdf">
 Lec-17: Operator Overloading Continue..
 </a></td>
-<td class="lecture">25<br>Lec-18</td>
+<td class="lecture">25<br>Live coding</td>
 <td class="quiz">26 <br>Assignment-2 Due</td>
 <td class="lab">27<br>Lab-9</td>
 </tr>
@@ -270,7 +270,7 @@ Lec-17: Operator Overloading Continue..
 <td></td>
 <td></td>
 
-<td class="lecture">1<br>Lec-20</td>
+<td class="lecture">1<br><a href="slides/Lecture-19-C++-Container.pdf">C++ STL Containers</a></td>
 <td class="lab">2<br>Lab-10 (Friday time table)</td>
 <td class="holiday">3<br>Holiday</td>
 </tr>
