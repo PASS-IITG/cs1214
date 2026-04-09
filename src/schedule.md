@@ -277,8 +277,8 @@ Lec-17: Operator Overloading Continue..
 
 <tr>
 <td class="quiz">6 <br> Quiz-3</td>
-<td class="lecture">7<br>Lec-21</td>
-<td class="lecture">8<br>Lec-22</td>
+<td class="lecture">7<br><a href="slides/Lecture-20-Container.pdf">C++ STL Containers continue</a></td>
+<td class="lecture">8<br><a href="https://github.com/PASS-IITG/lec-21-code/tree/main">In Class Coding</a></td>
 <td>9</td>
 <td class="lab">10<br>Lab-11</td>
 </tr>``
