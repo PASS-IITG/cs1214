@@ -287,20 +287,20 @@ Lec-17: Operator Overloading Continue..
 <td class="lecture">13<br>Lec-23 (Tuesday timetable)</td>
 <td class="holiday">14<br>Holiday</td>
 <td class="holiday">15<br>Holiday</td>
-<td class="quiz">16 <br>Assignment-3 Due</td>
+<td>16 <br></td>
 <td class="lab">17<br>Lab-12</td>
 </tr>
 
 <tr>
-<td class="quiz">20 <br> Quiz-4</td>
+<td>20 <br> </td>
 <td class="lecture">21<br>Lec-24</td>
 <td class="lecture">22<br>Lec-25</td>
-<td>23</td>
+<td class="quiz">23 <br> Quiz-4</td>
 <td class="lab">24<br>Lab-13</td>
 </tr>
 
 <tr>
-<td>27</td>
+<td class="quiz">27<br> Assignment-3 Due</td>
 <td class="lecture">28<br>Lec-26</td>
 <td class="lecture">29<br>Lec-27</td>
 <td>30</td>
