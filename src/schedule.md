@@ -284,7 +284,7 @@ Lec-17: Operator Overloading Continue..
 </tr>``
 
 <tr>
-<td class="lecture">13<br>Lec-23 (Tuesday timetable)</td>
+<td class="lecture">13<br><a href="slides/Lecture-22-Stream.pdf">Lec-22: Streams & File I/O</a></td>
 <td class="holiday">14<br>Holiday</td>
 <td class="holiday">15<br>Holiday</td>
 <td>16 <br></td>
