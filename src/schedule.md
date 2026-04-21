@@ -293,7 +293,7 @@ Lec-17: Operator Overloading Continue..
 
 <tr>
 <td>20 <br> </td>
-<td class="lecture">21<br>Lec-24</td>
+<td class="lecture">21<br><a href="slides/Lec-23-TU&ODR.pdf">Lec-23: Translation Unit, Linkage & ODR</a></td>
 <td class="lecture">22<br>Lec-25</td>
 <td class="quiz">23 <br> Quiz-4</td>
 <td class="lab">24<br>Lab-13</td>
