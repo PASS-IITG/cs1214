@@ -122,7 +122,7 @@ Lec-6: Classes Continue
 <td class="lab"><b>2</b></td>
 
 <td class="lecture"><b>3</b><br>
-<a href="slides/Lecture 7_ Constructors.pdf">
+<a href="slides/ Lecture 7_ Constructors.pdf">
 Lec-7: Classes & Constructors
 </a></td>
 
